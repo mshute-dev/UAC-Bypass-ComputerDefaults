@@ -1,4 +1,4 @@
-﻿# UAC-Bypass-ComputerDefaults
+﻿# UAC Bypass ComputerDefaults: Proof of Concept
 
 This script is a proof-of-concept demonstrating a registry hijacking technique to bypass UAC on Windows. It targets ComputerDefaults.exe, a high-integrity binary that auto-elevates, to execute a command with Administrator privileges without a prompt.
 
